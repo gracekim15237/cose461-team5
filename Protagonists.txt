@@ -1,0 +1,22 @@
+The Little Prince: 
+['prince', 'fox', 'boa', 'roses', 'asteroid', 'la', 'planete',
+'xix', 'xxii', 'renard', 'fleuri', 'jardin', 'xxv', 'allumeur',
+'vaniteux', 'petit', 'arrivee', 'toilette', 'astronomical', 'b-612', 'i']
+
+    answer: prince fox rose < first-person narrator's point of view I/me/my not detected
+
+Charlotte's Web:
+['wilbur', 'charlotte', 'fern', 'zuckerman', 'arable', 'avery', 'templeton', 'homer',
+'zuckermans', 'dorian', 'edith', 'bur', 'henry', 'ferris', 'fussy', 'eb', 'nellie',
+'john', 'xv', 'aranea', 'femur', 'ladeez', 'xii', 'xxii', 'iii']
+
+    answer: wilbur charlotte fern(zuckerman) / avery, arable ...
+
+Peter Pan:
+['peter', 'wendy', 'hook', 'john', 'darling', 'michael', 'gutenberg', 'nana', 'smee', 
+'tink', 'tootles', 'nibs', 'starkey', 'tinker', 'jane', 'curly', 'george', 'tom', 'ebook',
+'lily', 'tiger', 'archive', 'cecco', 'hullo', 'liza']
+
+    answer: peter wendy (captain)hook michael (mr.)smee tink(erbell) tootles nibs curly...
+
+    
